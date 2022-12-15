@@ -1,6 +1,6 @@
 👋 Hi, I am Aras Selvi. I am a PhD student at Imperial College London.
 
-💻  I work on the intersection of robust/nonconvex optimization, privacy, and machine learning.
+💻  I work on the intersection of robust/nonconvex optimization, privacy, and machine learning, as well as their applications in operations management problems.
 
 👀 Please find more details on my webpage: https://www.arasselvi.com/
 
